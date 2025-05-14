@@ -147,7 +147,7 @@ header p {
 }
 
 #delete-confirmation p {
-  margin: 0;
+  margin: 0 auto;
   font-size: 1.15rem;
   max-width: 38ch;
   color: #804242;
